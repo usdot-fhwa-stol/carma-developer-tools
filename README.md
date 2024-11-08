@@ -26,7 +26,7 @@ Each folder holds code for specific product or projects. Such as:
 
 ## 🛠 Usage
 
-Each directory may contain its own README file for specific details on usage, dependencies, and limitations. Users are encouraged to review any notes or comments in the code before running it, as certain scripts may require configuration or setup specific to our environment.
+Each directory may contain its own README file for specific details on usage, dependencies, and limitations. Users are encouraged to review any notes or comments in the code before running it, as certain scripts may require configuration or setup specific to our environment. Please make sure to indicate when or which version did the code apply to.
 
 ## 🤝 Contributing
 

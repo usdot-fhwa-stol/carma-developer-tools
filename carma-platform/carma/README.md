@@ -1,0 +1,1 @@
+Example localization.launch.py file to enable basic_travel_simulator
