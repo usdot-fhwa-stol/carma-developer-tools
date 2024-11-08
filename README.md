@@ -19,11 +19,10 @@ This repository serves as a holding area for **non-peer-reviewed** code that is 
 **This code is provided “as-is”** and may not meet production standards. It has not been formally reviewed, and as such, users are advised to use it with caution and understand that issues or bugs may be present. It is meant solely for internal use within the team.
 
 ## 🔧 Repository Structure
-
-- **`/scripts/`**: General-purpose scripts and utilities.
-- **`/testing/`**: Code developed for testing specific features or components.
-- **`/experiments/`**: Code snippets and files related to exploratory work or R&D efforts.
-- **`/docs/`**: Any relevant documentation or notes that could assist in understanding or using the tools.
+Each folder holds code for specific product or projects. Such as:
+- **`/carma-platform/`**: ROS nodes or tools for testing and debugging carma-platform.
+- **`/voices/`**: Scripts or helper code for VOICES developing or demonstration.
+...
 
 ## 🛠 Usage
 
